@@ -43,7 +43,14 @@ coverY: 0
 
 #### Inference (NLI)
 
-*
+* [SNLI](https://aclanthology.org/C08-1066/)
+  * [Webpage](https://nlp.stanford.edu/projects/snli/) containing updated info
+  * [Direct .zip download link](https://nlp.stanford.edu/projects/snli/snli\_1.0.zip)
+* [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI): Explanation of SNLI annotation.
+  * [Publication link](https://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations.pdf)
+* [MultiNLI](https://cims.nyu.edu/\~sbowman/multinli/paper.pdf)
+  * [Webpage](https://cims.nyu.edu/\~sbowman/multinli/) containing updated detailed info
+  * [Direct .zip download link v\_1.0](https://cims.nyu.edu/\~sbowman/multinli/multinli\_1.0.zip)
 
 ### BioMed
 
