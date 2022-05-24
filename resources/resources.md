@@ -44,7 +44,11 @@ coverY: 0
   * [Paper Link ](https://medinform.jmir.org/2020/11/e23375/#ref13)
   * [Potential Git Link for Code](https://github.com/uf-hobi-informatics-lab/2019\_N2C2\_Track1\_ClinicalSTS/tree/master/src) :confused:
   * [Dataset Reproduction tutorial](https://www.protocols.io/view/a-reproducibility-protocol-and-dataset-on-the-biom-36wgq429xvk5/v3)
-* MedNLI
+* MedNLI: A Natural Language Inference Dataset For The Clinical Domain
+  * [Home page](https://jgc128.github.io/mednli/)
+  * [Github Link](https://github.com/jgc128/mednli)
+  * Derived from: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+  * Comment: Requires CITI certification to access the dataset.
 * SNLI
 * STSb
 * CORD19STS
