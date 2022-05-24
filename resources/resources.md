@@ -10,8 +10,6 @@ coverY: 0
 
 ### BioMed
 
-####
-
 #### Embedding
 
 * [BioSentVec](https://arxiv.org/abs/1810.09302): Creating sentence embeddings for biomedical texts
@@ -33,7 +31,26 @@ coverY: 0
   * [Github Link](https://github.com/AbhilashaRavichander/NLI\_StressTest)
   * [Google Drive link](https://drive.google.com/file/d/1hA2ZiAH2mC1U0yolft3Y8Ike-fjHmNmw/view?usp=sharing)
 
+#### Sentence Generation
+
+* [Biomedical Data-to-Text Generation via Fine-Tuning Transformers](https://aclanthology.org/2021.inlg-1.40/)
+  * [Github Link](https://github.com/bayer-science-for-a-better-life/data2text-bioleaflets)
+  * [Dataset](https://zenodo.org/record/5196178#.Yogu\_5PMJhC)
+
 #### Covid
+
+#### Entity Representation and Entity Linking
+
+* [BioSyn](https://arxiv.org/abs/2005.00239): **Bio**Medical Entity Representation with **Syn**onym Migration
+  * [Github Link](https://github.com/dmis-lab/BioSyn)
+  * :hugging: available
+* [Ab3P](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2576267/): Abbreviation definition identification based on automatic precision estimates
+  * [Github Link](https://github.com/ncbi-nlp/Ab3P)&#x20;
+  * _Comment: C++ code_
+* [BERT might be overkill](https://arxiv.org/pdf/2109.02237.pdf): A Tiny but Effective Biomedical Entity Linker based on Residual Convolutional Neural Network
+  * [Github Link](https://github.com/laituan245/rescnn\_bioel)
+* [SapBERT](https://arxiv.org/pdf/2105.14398.pdf): Self-alignment pretraining for BERT (Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking)
+  * [Github Link](https://github.com/cambridgeltl/sapbert)
 
 #### **Entity Recognition (NER)**
 
@@ -43,9 +60,7 @@ coverY: 0
   * [Dropbox Link](https://uofi.app.box.com/s/k8pw7d5kozzpoum2jwfaqdaey1oij93x/file/651148518303): JSON file of the dataset.
 * [Cord NERD](https://drive.google.com/file/d/1uJgtqqggkVXv7uGLuG3wYWstIaa7bqRO/view): Not sure which work this Dataset belongs to :confused:
 
-####
 
-&#x20;
 
 ## Datasets
 
@@ -98,6 +113,10 @@ coverY: 0
 ## Tutorials
 
 ## Blogs
+
+### Entity Linking
+
+* Entity linking approach proposed and explained by Nvidia : [Self-alignment Pre-training for Biomedical Entity Representations](https://arxiv.org/abs/2010.11784v2)
 
 ## Notebooks
 
