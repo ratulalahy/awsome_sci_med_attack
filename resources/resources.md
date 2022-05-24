@@ -17,6 +17,9 @@ coverY: 0
 * [BioSentVec](https://arxiv.org/abs/1810.09302): Creating sentence embeddings for biomedical texts
   * [BioSentVec](https://github.com/ncbi-nlp/BioSentVec): Sentence Vector Github Link&#x20;
   * [BioWordVec](https://github.com/ncbi-nlp/BioWordVec): Word Vector Github Link
+* [STSb](http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark): STS benchmark webpage
+  * [Direct download link](http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz)
+* [<mark style="background-color:red;">SentEval</mark>](https://github.com/facebookresearch/SentEval)<mark style="background-color:red;">: evaluation toolkit for sentence embeddings</mark>
 
 #### Similarity Score measure
 
@@ -77,8 +80,8 @@ coverY: 0
   * [Github Link](https://github.com/jgc128/mednli)
   * Derived from: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
   * _Comment: Requires CITI certification to access the dataset._ :yellow\_circle:__
-* STSb
-* CORD19STS
+* [CORD19STS](https://arxiv.org/abs/2007.02461): Covid 19 Semantic Textual Similarity Dataset
+  * [Git Link](https://gitlab.vista.isi.edu/xiaoguo/cord\_19/-/tree/master): Overview and Results with `scripts`
 
 #### Covid
 
