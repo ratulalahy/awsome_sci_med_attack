@@ -23,6 +23,13 @@ coverY: 0
 * SimMatrics: [Github Link](https://github.com/Simmetrics/simmetrics)
   * _Comment: Java Code_
 
+#### (Inference) NLI measure
+
+* [Stress Test Evaluation for Natural Language Inference](https://arxiv.org/abs/1806.00692)
+  * [Webpage](https://abhilasharavichander.github.io/NLI\_StressTest/) containing overview and leaderboard
+  * [Github Link](https://github.com/AbhilashaRavichander/NLI\_StressTest)
+  * [Google Drive link](https://drive.google.com/file/d/1hA2ZiAH2mC1U0yolft3Y8Ike-fjHmNmw/view?usp=sharing)
+
 #### Covid
 
 #### **Entity Recognition (NER)**
