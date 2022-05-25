@@ -76,6 +76,10 @@ coverY: 0
 * [MultiNLI](https://cims.nyu.edu/\~sbowman/multinli/paper.pdf)
   * [Webpage](https://cims.nyu.edu/\~sbowman/multinli/) containing updated detailed info
   * [Direct .zip download link v\_1.0](https://cims.nyu.edu/\~sbowman/multinli/multinli\_1.0.zip)
+* [SciTail](https://ojs.aaai.org/index.php/AAAI/article/view/12022): A Textual Entailment Dataset from Science Question Answering
+  * [Allenai page](https://allenai.org/data/scitail)
+  * [Github](https://github.com/allenai/scitail)
+  * [Direct Download](https://ai2-public-datasets.s3.amazonaws.com/scitail/SciTailV1.1.zip)
 
 ### BioMed
 
