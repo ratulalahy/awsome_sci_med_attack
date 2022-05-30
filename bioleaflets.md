@@ -1,5 +1,7 @@
 ---
 description: Biomedical Data-to-Text Generation via Fine-Tuning Transformers
+cover: https://www.sampurnagraphics.in/images/insert3.jpg
+coverY: 6.334841628959275
 ---
 
 # BioLeaflets
