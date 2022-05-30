@@ -21,3 +21,13 @@ description: Biomedical Data-to-Text Generation via Fine-Tuning Transformers
 ### Dataset Generation
 
 > Dataset is generated from package leaflets contents. The content of each section is not standardized, yet it is still well-structured.
+
+<details>
+
+<summary>Walk thrue</summary>
+
+## Dataset Generation
+
+
+
+</details>
