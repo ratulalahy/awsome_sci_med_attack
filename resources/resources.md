@@ -37,6 +37,11 @@ coverY: 0
   * [Github Link](https://github.com/bayer-science-for-a-better-life/data2text-bioleaflets)
   * [Dataset](https://zenodo.org/record/5196178#.Yogu\_5PMJhC)
 
+#### Name Entity Recognition (NER)
+
+* [Biomedical named entity recognition using deep neural networks with contextual information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3321-4)
+* [Improving biomedical named entity recognition with syntactic information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6)
+
 #### Covid
 
 #### Entity Representation and Entity Linking
