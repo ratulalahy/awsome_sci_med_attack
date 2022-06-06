@@ -127,6 +127,10 @@ coverY: 0
 
 * Entity linking approach proposed and explained by Nvidia : [Self-alignment Pre-training for Biomedical Entity Representations](https://arxiv.org/abs/2010.11784v2)
 
+### Name Entity Relationship (NER)
+
+* [Who’s Who and What’s What: Advances in Biomedical Named Entity Recognition (BioNER)](https://towardsdatascience.com/whos-who-and-what-s-what-advances-in-biomedical-named-entity-recognition-bioner-c42a3f63334c)
+
 ## Notebooks
 
 ## Talks
