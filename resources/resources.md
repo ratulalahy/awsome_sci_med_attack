@@ -88,6 +88,19 @@ coverY: 0
   * [Python Interface](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/ExampleCode.Python.zip)
   * [Example Link](https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/format/)
 
+### Scientific Claim Verifications
+
+* <mark style="background-color:red;"></mark>[<mark style="background-color:red;">Scifact</mark>](https://github.com/allenai/scifact)<mark style="background-color:red;"></mark>
+  * [Paper](https://arxiv.org/abs/2004.14974)
+* [MultiVerS](https://github.com/dwadden/multivers)
+  * [Paper](https://arxiv.org/abs/2112.01640)
+* [<mark style="background-color:red;">CovidFact</mark>](https://github.com/asaakyan/covidfact)
+  * Also Generate counter claim
+  *
+  * [Paper](https://arxiv.org/pdf/2106.03794.pdf)
+* <mark style="background-color:red;"></mark>[<mark style="background-color:red;">HealthVer</mark>](https://github.com/sarrouti/HealthVer)<mark style="background-color:red;"></mark>
+  * [Paper](https://github.com/sarrouti/HealthVer/blob/master)
+
 ## Datasets
 
 ### Generic
