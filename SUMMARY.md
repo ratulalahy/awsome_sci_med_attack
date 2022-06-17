@@ -10,4 +10,8 @@
 ***
 
 * [Inference](inference.md)
-* [BioLeaflets](bioleaflets.md)
+
+## Group 1
+
+* [Paper Review](group-1/paper-review/README.md)
+  * [BioLeaflets](group-1/paper-review/bioleaflets.md)
