@@ -42,7 +42,7 @@ coverY: 6.334841628959275
 
 </details>
 
-![Original Section content](<../../.gitbook/assets/Screen Shot 2022-05-30 at 12.38.png>)
+![Original Section content](<.gitbook/assets/Screen Shot 2022-05-30 at 12.38.png>)
 
 **Annotation:**
 

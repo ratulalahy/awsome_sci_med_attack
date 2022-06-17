@@ -14,4 +14,4 @@
 ## Group 1
 
 * [Paper Review](group-1/paper-review/README.md)
-  * [BioLeaflets](group-1/paper-review/bioleaflets.md)
+  * [BioLeaflets](bioleaflets.md)
