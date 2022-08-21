@@ -150,7 +150,7 @@ coverY: 0
 
 #### **Semantic textual Similarity (STS)**
 
-* [CORD19STS](https://arxiv.org/abs/2007.02461): COVID-19 Semantic Textual Similarity Dataset (Also in [SNLI](resources.md#semantic-textual-similarity-sts-1))
+* [CORD19STS](https://arxiv.org/abs/2007.02461): COVID-19 Semantic Textual Similarity Dataset (Also in [SNLI](./#semantic-textual-similarity-sts-1))
   * [Git Link](https://gitlab.vista.isi.edu/xiaoguo/cord\_19/-/tree/master/): Model weight links, Results, Overview
 
 #### **Inference (NLI)** <a href="#inference_nli" id="inference_nli"></a>

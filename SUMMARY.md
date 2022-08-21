@@ -4,7 +4,8 @@
 
 ## Resources
 
-* [Resources](resources/resources.md)
+* [Resources](resources/resources/README.md)
+  * [Page 1](resources/resources/page-1.md)
 * [Similarity Measurement](resources/similarity-measurement.md)
 
 ***
