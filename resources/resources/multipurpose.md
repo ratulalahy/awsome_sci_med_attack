@@ -13,4 +13,6 @@
     \- Huggingface model\
     \- Finetuning\
     \- Benchmark\
-    \-BERT model\
+    \- BERT model
+* [BLUE, the Biomedical Language Understanding Evaluation benchmark](https://github.com/ncbi-nlp/BLUE\_Benchmark)\
+  \- Previous version of [BlueBert](https://github.com/ncbi-nlp/bluebert)
