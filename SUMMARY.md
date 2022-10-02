@@ -15,5 +15,5 @@
 
 ## Review
 
-* [Paper Review](review/paper-review/README.md)
-  * [BioLeaflets](review/paper-review/bioleaflets.md)
+* [Paper Review](group-1/paper-review/README.md)
+  * [BioLeaflets](bioleaflets.md)
