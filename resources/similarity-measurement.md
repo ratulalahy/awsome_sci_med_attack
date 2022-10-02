@@ -4,12 +4,12 @@
 
 ### Paper
 
-1. **SentEval: Evaluation Toolkit for sentence embedding**\
-   \- Developed by [FBResearch](https://github.com/facebookresearch)\
-   \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
-   \- [GitRepo](https://github.com/facebookresearch/SentEval)\
-   \- Large amount of STS dataset added\
-   \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
+* **SentEval: Evaluation Toolkit for sentence embedding**\
+  \- Developed by [FBResearch](https://github.com/facebookresearch)\
+  \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
+  \- [GitRepo](https://github.com/facebookresearch/SentEval)\
+  \- Large amount of STS dataset added\
+  \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
 
 ### Dataset
 
