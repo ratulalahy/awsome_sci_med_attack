@@ -57,7 +57,7 @@ coverY: 6.334841628959275
 
 
 **Proposed generation approach**\
-****Conditional generation task: Given an ordered set of entities to produce multi-sentence section.
+****Conditional generation task: Given an ordered set of entities to produce a multi-sentence section.
 
 
 
