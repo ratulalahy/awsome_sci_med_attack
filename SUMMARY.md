@@ -12,6 +12,7 @@
   * [Name Entity Detection](resources/resources/name-entity-detection.md)
   * [Sentence Generation](resources/resources/sentence-generation.md)
   * [Scintific Claim Verification](resources/resources/scintific-claim-verification.md)
+  * [MultiPurpose](resources/resources/multipurpose.md)
 
 ## Review
 
