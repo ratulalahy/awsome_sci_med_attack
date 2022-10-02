@@ -13,6 +13,8 @@
   * [Sentence Generation](resources/resources/sentence-generation.md)
   * [Scintific Claim Verification](resources/resources/scintific-claim-verification.md)
   * [MultiPurpose](resources/resources/multipurpose.md)
+  * [Corpora](resources/resources/corpora.md)
+  * [Challenges/tasks](resources/resources/challenges-tasks.md)
 
 ## Review
 
