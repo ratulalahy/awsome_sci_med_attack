@@ -4,20 +4,12 @@
 
 ### Paper
 
-* **SentEval: Evaluation Toolkit for sentence embedding**\
-  \- Developed by [FBResearch](https://github.com/facebookresearch)\
-  \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
-  \- [GitRepo](https://github.com/facebookresearch/SentEval)\
-  \- Large amount of STS dataset added\
-  \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
-* [Semantic Similarity Measures in the <mark style="color:green;">Biomedical</mark> Domain by Leveraging a Web <mark style="color:green;">Search Engine</mark>](https://ieeexplore.ieee.org/document/6508818)<mark style="color:green;"></mark>
-* [Measuring Semantic Similarity Between <mark style="color:green;">Biomedical</mark> Concepts Within Multiple <mark style="color:green;">Ontologies</mark>](https://ieeexplore.ieee.org/document/5061528)<mark style="color:green;"></mark>
-* [Semantic similarity in the <mark style="color:green;">biomedical</mark> domain: an evaluation across knowledge sources](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-261)
-* [Semantic similarity and machine learning with ontologies](https://academic.oup.com/bib/article/22/4/bbaa199/5922325)
-* [BIOSSES: a semantic sentence similarity estimation system for the <mark style="color:green;">biomedical</mark> domain](https://pubmed.ncbi.nlm.nih.gov/28881973/)
-* [Predicting Semantic Similarity Between <mark style="color:green;">Clinical Sentence Pairs</mark> Using Transformer Models: Evaluation and Representational Analysis](https://pubmed.ncbi.nlm.nih.gov/34037527/)
-* [Finding <mark style="color:green;">disease similarity</mark> based on implicit semantic similarity](https://www.sciencedirect.com/science/article/pii/S1532046411002073)
-* [PubMed Text Similarity Model and its application to curation efforts in the Conserved Domain Database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6606757/)
+1. **SentEval: Evaluation Toolkit for sentence embedding**\
+   \- Developed by [FBResearch](https://github.com/facebookresearch)\
+   \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
+   \- [GitRepo](https://github.com/facebookresearch/SentEval)\
+   \- Large amount of STS dataset added\
+   \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
 
 ### Dataset
 

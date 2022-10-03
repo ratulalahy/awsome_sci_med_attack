@@ -24,3 +24,4 @@
     \- Concept recognition/ concept tree\
     \- Convert corpus
 * [Formalizing biomedical concepts from textual definitions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4422531/)
+* [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703786/)
