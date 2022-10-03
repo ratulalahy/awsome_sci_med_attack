@@ -4,12 +4,16 @@
 
 ### Paper
 
-1. **SentEval: Evaluation Toolkit for sentence embedding**\
-   \- Developed by [FBResearch](https://github.com/facebookresearch)\
-   \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
-   \- [GitRepo](https://github.com/facebookresearch/SentEval)\
-   \- Large amount of STS dataset added\
-   \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
+* **SentEval: Evaluation Toolkit for sentence embedding**\
+  \- Developed by [FBResearch](https://github.com/facebookresearch)\
+  \- [Paper](https://arxiv.org/pdf/1705.02364.pdf)\
+  \- [GitRepo](https://github.com/facebookresearch/SentEval)\
+  \- Large amount of STS dataset added\
+  \- Multiple downstream tasks (QA, paraphrase detection, STS, NLI) and probing model available.
+* [Semantic Similarity Measures in the <mark style="color:green;">Biomedical</mark> Domain by Leveraging a Web <mark style="color:green;">Search Engine</mark>](https://ieeexplore.ieee.org/document/6508818)<mark style="color:green;"></mark>
+* [Measuring Semantic Similarity Between <mark style="color:green;">Biomedical</mark> Concepts Within Multiple <mark style="color:green;">Ontologies</mark>](https://ieeexplore.ieee.org/document/5061528)<mark style="color:green;"></mark>
+* [Semantic similarity in the <mark style="color:green;">biomedical</mark> domain: an evaluation across knowledge sources](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-261)
+*
 
 ### Dataset
 
