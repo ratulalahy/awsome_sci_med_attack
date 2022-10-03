@@ -73,6 +73,7 @@
   * [PMCXMLConverters](http://github.com/ncbi/PMCXMLConverters)
   * [PubReader](http://github.com/ncbi/PubReader)
   * [NCBI on GitHub](http://github.com/ncbi/)
+* [MetaMap](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap/run-locally/MainDownload.html)
 
 ### Article
 
