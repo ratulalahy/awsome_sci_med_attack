@@ -2,7 +2,7 @@
 
 ### Paper
 
-* [A critical review of the <mark style="color:green;">readability</mark> of online patient education resources from RadiologyInfo.Org](https://pubmed.ncbi.nlm.nih.gov/24555593/)
+* [A critical review of the <mark style="color:purple;">readability</mark> of online patient education resources from RadiologyInfo.Org](https://pubmed.ncbi.nlm.nih.gov/24555593/)
 * <mark style="color:green;"></mark>[<mark style="color:green;">Readability</mark> of online patient education material for the novel coronavirus disease (COVID-19): a cross-sectional health literacy study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7260546/)
 * <mark style="color:green;"></mark>[<mark style="color:green;">Error Detection</mark> in Large-Scale Natural Language Understanding Systems Using <mark style="color:green;">Transformer</mark> Models](https://aclanthology.org/2021.findings-acl.44.pdf)
 
