@@ -15,6 +15,7 @@
   * [MultiPurpose](resources/resources/multipurpose.md)
   * [Corpora](resources/resources/corpora.md)
   * [Challenges/tasks](resources/resources/challenges-tasks.md)
+  * [MISC](resources/resources/misc.md)
 
 ## Review
 
